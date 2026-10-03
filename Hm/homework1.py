@@ -29,3 +29,6 @@ hero2.attack()
 hero2.rest()
 
 print(hero2.strength, hero2.health)
+
+
+
